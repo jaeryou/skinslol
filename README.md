@@ -6,3 +6,4 @@ Skins I use if anyone ever needs.
 # FieryFancyidke
 fieryrage's skin with idke combo colors
 ![](https://i.imgur.com/7sWR0MF.png)
+# 
